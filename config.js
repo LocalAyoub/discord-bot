@@ -1,7 +1,7 @@
 module.exports = {
     app: {
-        px: '@',
-        token: 'OTQxODE4MDE5NjE5OTU4ODU1.YgbeYg.WqQK8CkKyQCQ1Z6sR2cWKURFolY',
+        px: '!',
+        token: 'OTQxODE4MDE5NjE5OTU4ODU1.YgbeYg.UZXylB1UraYkq9Ma5K-ohfHk5GM',
         playing: 'in Elias achtertuin.'
     },
 
